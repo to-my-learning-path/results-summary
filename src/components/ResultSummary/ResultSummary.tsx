@@ -89,7 +89,7 @@ const ScoreItem = ({ Item }: { Item: ResultData }) => (
 );
 
 function getImageUrl(name: string) {
-  return new URL(name, import.meta.url).href;
+  return new URL(`../../assets/images/${name}`, import.meta.url).href;
 }
 
 export default ResultSummary;
