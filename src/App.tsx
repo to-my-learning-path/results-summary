@@ -3,7 +3,7 @@ import ResultSummary from "./components/ResultSummary";
 
 function App() {
   return (
-    <main>
+    <main className=" grid min-h-screen place-content-center">
       <ResultSummary />
     </main>
   );

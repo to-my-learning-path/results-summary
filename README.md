@@ -9,17 +9,16 @@ This is a solution to the [Results summary component challenge on Frontend Mento
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
 ## Overview
 
-<!-- ### Screenshot
+### Screenshot
 
 ![Desktop View](./screenshot/screenshot_1.png)
-![Mobile View](./screenshot/screenshot_2.png)
-![Mobile View with menu](./screenshot/screenshot_3.png) -->
+![Desktop View with hover](./screenshot/screenshot_2.png)
+![Mobile View](./screenshot/screenshot_3.png)
 
 ### Links
 
@@ -38,8 +37,6 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 - [React](https://reactjs.org/) - JS library
 - [Typescipt](https://www.typescriptlang.org/) - Typescript
 - [Tailwind](https://tailwindcss.com/) - CSS framework
-
-### What I learned
 
 ## Author
 

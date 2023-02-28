@@ -1,10 +1,6 @@
 @tailwind base;
 
 @layer base {
-  body {
-    @apply font-hankenGroteskFont;
-  }
-
   @font-face {
     font-family: Hanken Grotesk;
     font-weight: 500;
